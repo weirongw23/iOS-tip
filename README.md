@@ -32,10 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [RecordIt](https://recordit.co/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2020] [Weirong Wu]
