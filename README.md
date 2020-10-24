@@ -11,9 +11,7 @@
 
 ## Video Walkthrough
 
-Here's a walkthrough of the app:
-
-<img src='http://g.recordit.co/8NBLKnpltD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/p5hWeGBv3F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
