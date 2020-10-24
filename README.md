@@ -1,6 +1,6 @@
 # iOS Tip-Calculator
 
-**Description** a tip calculator application for iOS.
+**Description:** a tip calculator application for iOS.
 
 ## Feature Implementations
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
