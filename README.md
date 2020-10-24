@@ -1,6 +1,6 @@
-# iOS Tip Calculator
+# Tip Calculator
 
-**Description:** a tip calculator application for iOS mobile, built using Swift and XCode.
+**Description:** an iOS mobile application built using Swift and XCode.
 
 ## Feature Implementations
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
